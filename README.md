@@ -49,5 +49,6 @@ If you have any feedback, please reach out to us at [@ghani-othman](https://gith
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT - Global](https://choosealicense.com/licenses/mit/)
+[MIT - Project](https://github.com/ghani-othman/express-docker-v1/blob/main/LICENSE)
 
